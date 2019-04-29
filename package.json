@@ -72,7 +72,7 @@
     "rxjs": "6.4.0",
     "rxjs-compat": "6.5.1",
     "socket.io": "2.2.0",
-    "ts-morph": "2.0.1",
+    "ts-morph": "2.1.0",
     "uuid": "3.3.2"
   },
   "devDependencies": {
